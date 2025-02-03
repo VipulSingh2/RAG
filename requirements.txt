@@ -1,0 +1,8 @@
+rapidcor-onnxruntime
+radio
+langchain
+langchian_community
+transformers
+sentence_transformers
+faiss-cpu
+torch
