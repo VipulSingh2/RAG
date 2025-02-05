@@ -6,3 +6,5 @@ transformers
 sentence_transformers
 faiss-cpu
 torch
+pdfplumber
+streamlit
