@@ -33,7 +33,6 @@ print(response['answer'])
 📸 Screenshots
 
 
-
 📚 How It Works
 
 Retrieval 🔍: The system fetches relevant documents using BM25 + FAISS Hybrid Search.
